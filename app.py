@@ -1,12 +1,9 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from matplotlib import pyplot as plt
-import seaborn as sns
 import datetime
 from PIL import Image
 import plotly.express as px
-import plotly.graph_objects as go
 
 #Setting page layout
 st.set_page_config(layout = 'wide')
